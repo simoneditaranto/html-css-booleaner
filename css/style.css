@@ -18,3 +18,21 @@
 .odd-row{
     background-color: rgb(164, 223, 243);;
 }
+
+#other-interest{
+    color: grey;
+}
+
+.img-description{
+    height: 200px;
+    width: 200px;
+    color: white;
+}
+
+#back-1{
+    background-image: url(../img/graph.jpg);
+}
+
+#back-2{
+    background-image: url(../img/monitor.jpg);
+}
