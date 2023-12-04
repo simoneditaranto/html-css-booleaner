@@ -21,9 +21,18 @@ header{
     background-color: yellow;
 }
 
+table{
+    border-collapse: collapse;
+}
+
 #table-head{
     background-color: rgb(25, 184, 237);
     color: white;
+    text-align: left;
+}
+
+.small-column{
+    width: 25%;
 }
 
 .odd-row{
