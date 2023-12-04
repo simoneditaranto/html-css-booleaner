@@ -3,6 +3,12 @@ main{
     margin: auto;
 }
 
+header{
+    height: 180px;
+    background-image: url(../img/pattern.png);
+    background-color: rgb(85 169 255);
+}
+
 #author{
     color: rgb(25, 184, 237);
 }
