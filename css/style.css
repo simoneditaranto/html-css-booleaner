@@ -13,13 +13,9 @@ header{
     left: 10px;
 }
 
-#the{
-    font-size: 15px;
-    margin-left: 15px;
-}
-
 #page-description{
     font-size: 50px;
+    margin: auto;
 }
 
 #page-foundation{
