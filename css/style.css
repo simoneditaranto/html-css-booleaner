@@ -9,3 +9,12 @@
 .important-text{
     background-color: yellow;
 }
+
+#table-head{
+    background-color: rgb(25, 184, 237);
+    color: white;
+}
+
+.odd-row{
+    background-color: rgb(164, 223, 243);;
+}
