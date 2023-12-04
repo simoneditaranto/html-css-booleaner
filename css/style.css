@@ -1,12 +1,16 @@
-main{
-    width: 1050px;
-    margin: auto;
-}
-
 header{
     height: 180px;
     background-image: url(../img/pattern.png);
     background-color: rgb(85 169 255);
+    color: white;
+}
+
+#page-description{
+    font-size: 50px;
+}
+
+#page-foundation{
+    color: grey;
 }
 
 #author{
