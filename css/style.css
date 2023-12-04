@@ -1,3 +1,8 @@
+main{
+    width: 1050px;
+    margin: auto;
+}
+
 #author{
     color: rgb(25, 184, 237);
 }
